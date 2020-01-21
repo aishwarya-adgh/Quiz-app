@@ -1,0 +1,15 @@
+.instructions{
+    border: 1px solid darken($off-white,10%);
+    border-radius: 5px;
+    margin-top: $lg;
+    // margin-bottom: $lg;
+    padding: 30px;
+}
+h1{
+    color: $off-white;
+    font-size: $md;
+    text-align: center;
+}
+ol{
+    color: $off-white;
+}

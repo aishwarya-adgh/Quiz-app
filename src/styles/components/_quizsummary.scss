@@ -1,0 +1,35 @@
+:root{
+    background-image: url('../../assets/img/bg3.jpg');
+    background-size:cover ;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    // display: flex;
+    justify-content: space-around;
+}
+.container{
+    background-color: rgba(0,0,0,0.7);
+    height:450px ;
+    width:45% ;
+    margin-top: 100px;
+    padding-left: $md;
+    padding-right: $md; 
+    border-radius: 5px;  
+    h2{
+        margin: 50px;
+        text-align: center;
+        color: $off-white;
+    }    
+    h4{
+        text-align: center;
+        color: $off-white;
+    }  
+    #span{
+        
+        color: $off-white;
+    }   
+    
+}
+#main{
+    background-image: url('../../assets/img/bg3.jpg');
+}

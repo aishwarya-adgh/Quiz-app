@@ -1,0 +1,34 @@
+[
+    {
+      
+      "question": " What is the Capital Of India ?",
+      "optionA": "A.New Delhi",
+       "optionB": "B.Mumbai", 
+       "optionC":"C.Kolkatta",
+      "answer": "A.New Delhi"
+    },
+    {
+      
+      "question": "Who is the CEO of Tesla Motors?",
+     "optionA": "A.Bill Gates", 
+      "optionB":"B.Steve Jobs", 
+      "optionC":"C.Elon Musk",
+      "answer": "C.Elon Musk"
+    },
+    {
+      
+      "question": "Name World's Richest Man?",
+      "optionA": "A.Jeff Bezo", 
+       "optionB":"B.Bill Gates", 
+        "optionC":"C.Mark Zuckerberg",
+      "answer":"A.Jeff Bezo"
+    },
+    {
+      
+      "question": "World's Longest River?",
+      "optionA": "A.River Nile", 
+      "optionB":"B.River Amazon", 
+      "optionC":"C.River Godavari",
+      "answer": "A.River Nile"
+    }
+]
